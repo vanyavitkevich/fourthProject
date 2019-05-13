@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 37" width="33" height="37">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #3ea5ce } 
+	</style>
+	<g id="screenshot img">
+		<g id="inner post">
+			<g id="post info">
+				<path id="shape" class="shp0" d="M32,16.4c0,-8.84 -7.16,-16 -16,-16c-8.84,0 -16,7.16 -16,16c0,7.77 5.54,14.24 12.88,15.69l3.12,4.52l3.12,-4.52c7.34,-1.45 12.88,-7.92 12.88,-15.69z" />
+			</g>
+		</g>
+	</g>
+</svg>

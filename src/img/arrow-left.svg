@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 25" width="17" height="25">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="showcase">
+		<g id="slider btns">
+			<g id="left">
+				<path id="arrow" class="shp0" d="M16.06,21.95l-9.45,-9.45l9.45,-9.45l-2.83,-2.83l-12.28,12.28l12.28,12.28z" />
+			</g>
+		</g>
+	</g>
+</svg>

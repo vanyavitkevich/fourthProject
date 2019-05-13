@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 12" width="10" height="12">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #303940 } 
+	</style>
+	<g id="screenshot img">
+		<g id="nav bar">
+			<g id="download btn">
+				<path id="arrow" class="shp0" d="M8.67,6.13l-2.67,2.67v-7.8h-2v7.8l-2.67,-2.67l-1.1,1.1l4.77,4.77l4.77,-4.77z" />
+			</g>
+		</g>
+	</g>
+</svg>
